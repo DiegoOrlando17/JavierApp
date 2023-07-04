@@ -1,0 +1,10 @@
+C:\Users\Diego\source\repos\JavierApp\JavierApp\bin\Debug\JavierApp.exe.config
+C:\Users\Diego\source\repos\JavierApp\JavierApp\bin\Debug\JavierApp.exe
+C:\Users\Diego\source\repos\JavierApp\JavierApp\bin\Debug\JavierApp.pdb
+C:\Users\Diego\source\repos\JavierApp\JavierApp\obj\Debug\JavierApp.csproj.AssemblyReference.cache
+C:\Users\Diego\source\repos\JavierApp\JavierApp\obj\Debug\JavierApp.Form1.resources
+C:\Users\Diego\source\repos\JavierApp\JavierApp\obj\Debug\JavierApp.Properties.Resources.resources
+C:\Users\Diego\source\repos\JavierApp\JavierApp\obj\Debug\JavierApp.csproj.GenerateResource.cache
+C:\Users\Diego\source\repos\JavierApp\JavierApp\obj\Debug\JavierApp.csproj.CoreCompileInputs.cache
+C:\Users\Diego\source\repos\JavierApp\JavierApp\obj\Debug\JavierApp.exe
+C:\Users\Diego\source\repos\JavierApp\JavierApp\obj\Debug\JavierApp.pdb
